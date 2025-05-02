@@ -16,9 +16,6 @@ We pledge to create a respectful, inclusive, and harassment-free experience for 
 ## Enforcement
 Violations will be addressed by the project maintainers, with actions including warnings, temporary suspension, or removal from the community.
 
-## Contact
-For concerns or questions, reach out via [your-email@example.com].
-
 ---
 
 By participating in Aq-Channel, you agree to abide by this Code of Conduct.
